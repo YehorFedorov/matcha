@@ -1,0 +1,5 @@
+{
+  "from": "noreply@matcha.com",
+  "reg_subject": "Confirm registration",
+  "reset_subject": "Reset password"
+}
